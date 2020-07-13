@@ -11,6 +11,7 @@ dependencies:
     git:
       url: git://github.com/briak-moqod/plugins.git
       path: packages/google_maps_flutter/google_maps_flutter_platform_interface
+      ref: implement_heatmap
 
 dev_dependencies:
   flutter_test:
